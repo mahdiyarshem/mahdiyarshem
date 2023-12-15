@@ -3,6 +3,8 @@
 
 - 🔭 I  working on C++
 - 🌱  learning Lua
+- 👽 you Like Visual Studio 2023 or 2017? 
+
 
 # Programming 
  - `This is` [IranProgram](https://c++iran.com)
@@ -10,7 +12,7 @@
 
 # Favorite 
 
-- 🧲 Actually I Lie C++/C
+- 🧲 Actually I Like C++/C
 - 🔰  Press [UwU](https://gogoli.ir) 
 
 
