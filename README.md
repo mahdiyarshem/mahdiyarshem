@@ -8,7 +8,5 @@
 
 # Programming 
  `This is` [IranProgram](https://c++iran.com)
-```cpp
-# TeeworldTas
-```
-
+💠 this is [Discord Channel](https://discord.gg/guardhost)
+🚀 ## my daily work is playing game and ... 
