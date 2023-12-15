@@ -7,6 +7,6 @@
 - 🌱 I’m currently learning Lua
 
 # Programming 
- This is [IranProgram](https://c++iran.com)
+ `This is` [IranProgram](https://c++iran.com)
 
 
