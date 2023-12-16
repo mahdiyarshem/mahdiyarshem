@@ -9,7 +9,7 @@
 # Programming 
  - `This is` [IranProgram](https://c++iran.com)
 - 💠 this is [Discord Channel](https://discord.gg/guardhost)
-##### - 🎃 C++ | C | Python | JavaScript.
+##### - 🎃 C++ [70%]| C[20%] | Python[60%] | JavaScript[90%].
 
 
 # Favorite 
