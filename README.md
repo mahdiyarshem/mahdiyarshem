@@ -13,6 +13,6 @@
 # Favorite 
 
 - 🧲 Actually I Like C++/C
-- 🔰  Press [UwU](https://gogoli.ir) 
-- ** 💡 create best idea on the teeworldtas and more ..  **
+- 🔰  Press [UwU](https://gogoli.ir)
+-  💡 create best idea on the teeworldtas and more ..  
 
