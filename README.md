@@ -1,4 +1,4 @@
-### Hi bitch 👋
+### Hi sir 👋
 
 
 - 🔭 I  working on C++
@@ -14,5 +14,5 @@
 
 - 🧲 Actually I Like C++/C
 - 🔰  Press [UwU](https://gogoli.ir) 
-
+- ** 💡 create best idea on the teeworldtas and more ..  **
 
