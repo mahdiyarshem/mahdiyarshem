@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **can create a big idea?**
 
-- 📫 How to reach me **mahdiyarshemshaki@gmail.com**
+- 📫 How to reach me **mahdiyarshemshaki12@gmail.com**
 
-- ⚡ Fun fact **Playing DDNet XD**
+- ⚡ Fun fact **Playing game**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
