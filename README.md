@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahdiyar</h1>
-<h3 align="center">i Iranian Developer in Teeworld Game</h3>
+<h3 align="center">im Iranian Developer in Teeworld Game</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdiyarshem&label=Profile%20views&color=0e75b6&style=flat" alt="mahdiyarshem" /> </p>
 
