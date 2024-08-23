@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mahdiyar</h1>
-<h3 align="center">im Iranian Developer in Teeworld Game</h3>
+<h1 align="center">Hi 👋 Im Mahdiyar Shemshaki </h1>
+<h3 align="center">im A One Player And Creator Some Idea's</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdiyarshem&label=Profile%20views&color=0e75b6&style=flat" alt="mahdiyarshem" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdiyarshem" alt="mahdiyarshem" /></a> </p>
 
-- 🔭 I’m currently working on **DDNet**
+- 🔭 I’m currently working on **DDNet/LernIde/Love Play**
 
 - 💬 Ask me about **can create a big idea?**
 
